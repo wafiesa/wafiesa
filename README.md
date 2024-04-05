@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wafiesa
 - 👀 I’m interested in Data Analytics to understand quantitative values of Socio-economic
 - 🌱 I’m currently learning Python and R for data analysis 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email wafiesa@gmail.com
 - 😄 Pronouns: He/Him
 
