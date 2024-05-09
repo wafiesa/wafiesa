@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @wafiesa
-- 👀 I’m interested in Data Analytics to understand quantitative values of Socio-economic
-- 🌱 I’m currently learning Python and R for data analysis 
-- 📫 How to reach me via email wafiesa@gmail.com
-- 😄 Pronouns: He/Him
-
-<!---
-wafiesa/wafiesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @wafiesa
+I graduated in engineering and have worked in the civil service as a Administrative and Diplomatic Officer since 2009. My career began at the Ministry of Transport as an Assistant Secretary, then moved to the Ministry of Agriculture and Food Security (KPKM) in 2013. From 2015 to 2018, I served as an Agriculture Attaché at the Malaysian Embassy in The Hague. Afterward, I became a Senior Assistant Secretary in the Policy and Strategic Planning Division for a year, then a Senior Private Secretary to the Deputy Minister in the Prime Minister's Department in 2019. I later worked in the Policy and Development Section at the Property Management Division, Prime Minister's Department, and returned to KPKM in 2020 as a Senior Private Secretary to the Deputy Minister. Currently, I am the Principal Assistant Secretary (Technology Development) in the Agricultural Modernization Division. These roles have provided me with valuable experience in finance, human resources, socio-economic development, IT management, and international relations, boosting my confidence to aim for higher career goals.
