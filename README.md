@@ -1,3 +1,98 @@
 Hi, I’m @wafiesa
 
-I graduated in engineering and have worked in the civil service as a Administrative and Diplomatic Officer since 2009. My career began at the Ministry of Transport as an Assistant Secretary, then moved to the Ministry of Agriculture and Food Security (KPKM) in 2013. From 2015 to 2018, I served as an Agriculture Attaché at the Malaysian Embassy in The Hague. Afterward, I became a Senior Assistant Secretary in the Policy and Strategic Planning Division for a year, then a Senior Private Secretary to the Deputy Minister in the Prime Minister's Department in 2019. I later worked in the Policy and Development Section at the Property Management Division, Prime Minister's Department and returned to KPKM in 2020 as a Senior Private Secretary to the Deputy Minister. Currently, I am the Principal Assistant Secretary (Technology Development) in the Agricultural Modernization Division. These roles have provided me with valuable experience in finance, human resources, socio-economic development, IT management and international relations, boosting my confidence to aim for higher career goals.
+---
+
+### **Professional Summary**
+
+Experienced Administrative and Diplomatic Officer with a strong engineering background and over a decade of service in various government ministries. Skilled in policy development, international relations, and project management, with a focus on agricultural modernization. Adept at finance, IT management, and human resources, with a proven track record of enhancing operational efficiency and project outcomes.
+
+---
+
+### **Professional Experience**
+
+**Principal Assistant Secretary (Technology Development)**  
+_Agricultural Modernization Division, Ministry of Agriculture and Food Security_  
+_July 2023 – Present_
+
+- Lead and manage the Agrofood Mechanization and Automation Steering Committee.
+- Oversee the implementation and guidelines of the Mechanization and Automation Financing Grant Scheme.
+- Finalize impact reports for the Agrofood Mechanization and Automation Programme.
+- Coordinate and monitor development projects, ensuring timely progress updates on the MyProjek system.
+- **Achievements**: Streamlined the financing grant scheme process, improving efficiency by 20%.
+
+**Senior Assistant Secretary (Technology Development)**  
+_Agricultural Modernization Division, Ministry of Agriculture and Food Industries_  
+_August 2021 – July 2023_
+
+- Managed the Mechanization and Automation Financing Grant Scheme.
+- Drafted and coordinated guidelines for the Agrofood Mechanization and Automation Financing Grant Scheme.
+- Prepared reports on programme impacts and facilitated steering committee activities.
+- **Achievements**: Developed and benchmarked new agrofood technologies, enhancing project implementation.
+
+**Senior Private Secretary to Deputy Minister**  
+_Ministry of Agriculture and Food Industries_  
+_June 2020 – August 2021_
+
+- Planned and managed administrative affairs, including finance, HR, and documentation.
+- Acted as the intermediary between the Deputy Minister and various agencies.
+- Coordinated official events, meetings, and communication materials.
+- **Achievements**: Improved coordination of Deputy Minister’s events and activities, enhancing operational efficiency.
+
+**Senior Assistant Secretary (Development)**  
+_Policy and Development Section, Property Management Division, Prime Minister’s Department_  
+_February 2020 – June 2020_
+
+- Managed land information and development projects under the Federal Land Commissioner’s jurisdiction.
+- Coordinated land use changes, acquisitions, and development project updates.
+- **Achievements**: Enhanced land information management processes, improving data accuracy.
+
+**First Secretary (Agriculture)**  
+_Agricultural Counsellor Office, Embassy of Malaysia, The Hague_  
+_June 2015 – June 2018_
+
+- Monitored and reported on agricultural market potential in the EU, enhancing bilateral trade.
+- Organized marketing and business matching programs for Malaysian agriproducts.
+- **Achievements**: Strengthened Malaysia-EU agricultural trade relations and expanded market opportunities.
+
+---
+
+### **Education**
+
+**Bachelor of Civil Engineering (Hons)**  
+_University Tenaga Nasional (UNITEN)_  
+_Graduated 2009 | CGPA: 3.15_
+
+- **Achievements**: Dean’s Award recipient, Winner of Bridge Structure Design Championship.
+
+---
+
+### **Certifications**
+
+- **Registered Civil Engineer (G163153A)**  
+  Board of Engineers Malaysia  
+  _Registered 2009_
+
+---
+
+### **Skills**
+
+- **Technical Skills**: Data Science (Python, R), Engineering Software (STAAD PRO, ESTEEM, AutoCAD)
+- **Professional Skills**: Policy Research, Government Advocacy, Project Management, International Relations
+- **Soft Skills**: Leadership, Strategic Planning, Communication
+
+---
+
+### **Languages**
+
+- **Bahasa Malaysia**: Native
+- **English**: Fluent
+
+---
+
+### **Achievements and Activities**
+
+- Represented Malaysia at various international meetings and forums.
+- Developed electronic databases and project management systems.
+- Received multiple awards in academic and extracurricular activities, including tenpin bowling championships.
+
+---
