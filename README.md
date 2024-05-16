@@ -4,7 +4,7 @@ Hi, I’m @wafiesa
 
 ### **Professional Summary**
 
-Experienced Administrative and Diplomatic Officer with a strong engineering background and over a decade of service in various government ministries. Skilled in policy development, international relations, and project management, with a focus on agricultural modernization. Adept at finance, IT management, and human resources, with a proven track record of enhancing operational efficiency and project outcomes.
+Experienced Administrative and Diplomatic Officer to Government of Malaysia with a strong policy research background and over a decade of service in various government ministries. Skilled in policy development, international relations and project management, with a focus on economics and social development. Adept at finance, IT management and human resources, with a proven track record of enhancing operational efficiency and project outcomes.
 
 ---
 
