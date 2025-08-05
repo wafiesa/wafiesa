@@ -58,6 +58,10 @@ _June 2015 – June 2018_
 
 ### **Education**
 
+**Master of Science (Data Science and Analytics)**  
+_Universiti Kebangsaan Malaysia (UKM)_  
+_Graduated 2025_
+
 **Bachelor of Civil Engineering (Hons)**  
 _University Tenaga Nasional (UNITEN)_  
 _Graduated 2009 | CGPA: 3.15_
@@ -70,7 +74,7 @@ _Graduated 2009 | CGPA: 3.15_
 
 - **Registered Civil Engineer (G163153A)**  
   Board of Engineers Malaysia  
-  _Registered 2009_
+  _Registered 2010_
 
 ---
 
