@@ -80,7 +80,7 @@ _Graduated 2009 | CGPA: 3.15_
 
 ### **Skills**
 
-- **Technical Skills**: Data Science (Python, R), Engineering Software (STAAD PRO, ESTEEM, AutoCAD)
+- **Technical Skills**: Data Science (Python, R, SQL, Hadoop), Engineering Software (STAAD PRO, ESTEEM, AutoCAD)
 - **Professional Skills**: Policy Research, Government Advocacy, Project Management, International Relations
 - **Soft Skills**: Leadership, Strategic Planning, Communication
 
